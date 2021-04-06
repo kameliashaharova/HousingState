@@ -6,8 +6,13 @@ Frontend
 - React
 - Express - SCSS
 - Webpack
+
 Backend
 - Node.js
-- MySQL API
-- Google maps Deployment
+- MySQL 
+
+API
+- Google maps 
+
+Deployment
 - AWS EC2
