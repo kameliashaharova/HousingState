@@ -1,6 +1,6 @@
-## School group project, I worked on the Frontend.
+# School group project, I worked on the Frontend.
 
-System architecture and technologies used:
+# System architecture and technologies used:
 
 Frontend
 - React
