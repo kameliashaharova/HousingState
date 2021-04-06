@@ -1,0 +1,9 @@
+@import '~rfs/scss';
+@import '~bootstrap/scss/bootstrap';
+
+// this will allow for text to be dynamically resized
+$enable-responsive-font-sizes: true;
+
+.title {
+  @include rfs(64);
+}

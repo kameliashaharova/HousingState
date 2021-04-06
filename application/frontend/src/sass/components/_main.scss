@@ -1,0 +1,39 @@
+// put css here that is used in multiple components
+
+// define colors here
+:root {
+  --red-600: #e53e3e;
+}
+
+body {
+  background: rgb(255, 255, 250);
+}
+
+// images will zoom in instead of stretch to fit the aspect ratio
+.embed-responsive {
+  .card-img-top {
+    object-fit: cover;
+  }
+}
+
+.overflow {
+  overflow: hidden;
+}
+
+.drop-text {
+  font-size: 1rem;
+}
+
+.label-text {
+  font-size: 0.75rem;
+}
+
+.error {
+  font-size: 12px;
+  color: var(--red-600);
+  margin-top: 0.25rem;
+}
+
+.nav-color {
+  background-color: #457b9d;
+}
